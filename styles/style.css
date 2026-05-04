@@ -1,1 +1,46 @@
-/* место для вашего кода */
+/* header */
+.header__menu {}
+
+.header__logo {}
+
+.address {}
+
+/* cover */
+.cover {}
+
+.cover__title {}
+
+.cover__description {}
+
+.cover__description-text {}
+
+.bet-button {}
+
+/* lots */
+.lots {}
+
+.lots__heading {}
+
+.lots__card-list {}
+
+.lots__card-list-item {}
+
+.card-link {}
+
+.card {}
+
+/* about */
+.about {}
+
+.about__logo {}
+
+.about__title {}
+
+.about__text {}
+
+/* footer */
+.footer {}
+
+.footer__menu {}
+
+.footer__social-list {}
