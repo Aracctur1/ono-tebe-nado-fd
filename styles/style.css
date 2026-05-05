@@ -4,14 +4,25 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-
 }
 
 .header__menu {}
 
+.header__links-list {}
+
+.header__links-list-item {}
+
+.header__links-list-item_no-bullit {}
+
+.header__link .header__link_active {}
+
 .header__logo {}
 
 .address {}
+
+.header__address {}
+
+.address__link {}
 
 /* cover */
 .cover {}
