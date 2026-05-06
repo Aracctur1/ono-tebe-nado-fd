@@ -138,7 +138,9 @@
 }
 
 /* lots */
-.lots {}
+.lots {
+  padding: 180px 24px 0;
+}
 
 .lots__heading {}
 
@@ -149,6 +151,16 @@
 .card-link {}
 
 .card {}
+
+.card_type_film {}
+
+.card__title {}
+
+.card__text {}
+
+.card_type_book {}
+
+.card_type_picture {}
 
 /* about */
 .about {}
