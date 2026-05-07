@@ -205,7 +205,11 @@
   background-image: url(../images/card-lot-03.jpg);
 }
 
-.lots__look-more-link {}
+.lots__look-more-link {
+  font-size: 20px;
+  padding-left: 40px;
+  text-underline-offset: 5px;
+}
 
 /* about */
 .about {}
